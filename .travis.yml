@@ -1,5 +1,5 @@
 language: erlang
-script: "make"
+script: "make all"
 notifications:
   email: false
 otp_release:
